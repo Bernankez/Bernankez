@@ -11,5 +11,6 @@
   <a href="https://github.com/Bernankez/TSTemplate">ts-library-template(unbuild)</a> . 
   <a href="https://github.com/Bernankez/TSTemplateTsup">ts-library-template(tsup)</a> . 
   <a href="https://github.com/Bernankez/TSTemplateVite">ts-library-template(vite & tsx)</a> . 
+  <a href="https://github.com/Bernankez/TSTemplateMonorepo">ts-library-template(monorepo)</a> . 
   <a href="https://github.com/Bernankez/UniAppTemplate">uni-app-template</a>
 </samp>
