@@ -2,7 +2,7 @@
 
 什么也不会，喜欢睡觉
 
-Knows nothing, likes sleeping.
+<samp>Knows nothing, likes sleeping.</samp>
 
 <samp>
   <b>Lint Config:</b><br/>
