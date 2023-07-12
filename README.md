@@ -23,6 +23,7 @@
   <br/>
   <br/>
   <b>Templates:</b><br/>
+  <a href="https://github.com/Bernankez/create-l">create-l(TypeScript Library Scaffold)</a> · 
   <a href="https://github.com/Bernankez/TSTemplate">ts-library-template(unbuild)</a> · 
   <a href="https://github.com/Bernankez/TSTemplateTsup">ts-library-template(tsup)</a> · 
   <a href="https://github.com/Bernankez/TSTemplateVite">ts-library-template(vite & tsx)</a> · 
