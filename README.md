@@ -8,27 +8,12 @@
 </ruby>
 
 <br>
-<br>
 
 <samp>
-  <b>Lint Config:</b><br/>
-  <a href="https://github.com/Bernankez/eslint-config">eslint-config</a> · 
-  <a href="https://github.com/Bernankez/stylelint-config">stylelint-config</a>
-  <br/>
-  <br/>
+  <h3><a href="https://github.com/Bernankez/use" target="_blank">Things I'm using.</a></h3>
   <b>Presets:</b><br/>
-  <a href="https://github.com/Bernankez/vscode-settings">vscode-settings</a> · 
   <a href="https://github.com/Bernankez/theme">theme</a> · 
   <a href="https://github.com/Bernankez/utils">utils</a>
-  <br/>
-  <br/>
-  <b>Templates:</b><br/>
-  <a href="https://github.com/Bernankez/create-l">create-l(TypeScript Library Scaffold)</a> · 
-  <a href="https://github.com/Bernankez/TSTemplate">ts-library-template(unbuild)</a> · 
-  <a href="https://github.com/Bernankez/TSTemplateTsup">ts-library-template(tsup)</a> · 
-  <a href="https://github.com/Bernankez/TSTemplateVite">ts-library-template(vite & tsx)</a> · 
-  <a href="https://github.com/Bernankez/TSTemplateMonorepo">ts-library-template(monorepo)</a> · 
-  <a href="https://github.com/Bernankez/UniAppTemplate">uni-app-template</a>
 </samp>
 
 ---
