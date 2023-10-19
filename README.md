@@ -2,17 +2,11 @@
 
 [![visitor badge](https://badge.keke.cc/api/github.com/bernankez)](https://github.com/Bernankez/visitor-badge)
 
-<ruby>
-  什么也不会，喜欢睡觉
-  <rt>
-    <samp>Knows nothing, likes sleeping.</samp>
-  </rt>
-</ruby>
+Knows nothing, likes sleeping.
 
-<br>
+什么也不会，喜欢睡觉
 
 <samp>
-  <a href="https://github.com/Bernankez/use" target="_blank">Things I'm using.</a> · 
-  <a href="https://github.com/Bernankez/theme">theme</a> · 
-  <a href="https://github.com/Bernankez/utils">utils</a>
+  <a href="https://keke.cc/" target="_blank">keke.cc</a> · 
+  <a href="https://github.com/Bernankez/use" target="_blank">Things I'm using.</a>
 </samp>
