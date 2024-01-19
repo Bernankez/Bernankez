@@ -2,9 +2,9 @@
 
 [![visitor badge](https://badge.keke.cc/api/github.com/bernankez)](https://github.com/Bernankez/visitor-badge)
 
-Knows nothing, likes sleeping.
+Writing code to fulfill my needs. If it happens to help you, I'm happy.
 
-什么也不会，喜欢睡觉
+<i>Knows nothing, likes sleeping. 什么也不会，喜欢睡觉</i>
 
 <samp>
   <a href="https://keke.cc/" target="_blank">keke.cc</a> · 
