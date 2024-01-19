@@ -4,7 +4,14 @@
 
 Writing code to fulfill my needs. If it happens to help you, I'm happy.
 
-<i>Knows nothing, likes sleeping. 什么也不会，喜欢睡觉</i>
+<i>
+  <samp>
+    Knows nothing, likes sleeping. 什么也不会，喜欢睡觉
+  </samp>
+</i>
+
+<br>
+<br>
 
 <samp>
   <a href="https://keke.cc/" target="_blank">keke.cc</a> · 
