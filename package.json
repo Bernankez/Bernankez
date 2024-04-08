@@ -44,7 +44,7 @@
     "prepublishOnly": "nr build",
     "dev": "tsup --format esm,cjs --watch",
     "build": "tsup --format esm,cjs --clean",
-    "release": "bumpp && nr publish",
+    "release": "bumpp && npm publish",
     "typecheck": "tsc --noEmit",
     "lint": "eslint . -f mo",
     "fix": "eslint . -f mo --fix"

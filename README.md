@@ -14,6 +14,6 @@ Writing code to fulfill my needs. If it happens to help you, I'm happy.
 <br>
 
 <samp>
-  <a href="https://keke.cc/" target="_blank">keke.cc</a> · 
+  <a href="https://keke.cc/" target="_blank">keke.cc</a> ·
   <a href="https://github.com/Bernankez/use" target="_blank">Things I'm using.</a>
 </samp>
