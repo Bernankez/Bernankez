@@ -2,7 +2,7 @@
   "name": "bernankez",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "bun@1.1.0",
+  "packageManager": "bun@1.1.13",
   "author": {
     "name": "Cole",
     "email": "bernankeic@gmail.com",
@@ -55,19 +55,19 @@
   },
   "devDependencies": {
     "@antfu/ni": "^0.21.12",
-    "@bernankez/eslint-config": "^1.1.0",
+    "@bernankez/eslint-config": "^1.4.0",
     "@types/figlet": "^1.5.8",
-    "@types/node": "^20.12.5",
-    "bumpp": "^9.4.0",
+    "@types/node": "^20.14.2",
+    "bumpp": "^9.4.1",
     "chalk": "^5.3.0",
-    "eslint": "^9.0.0",
+    "eslint": "^9.4.0",
     "eslint-formatter-mo": "^1.2.0",
-    "lint-staged": "^15.2.2",
+    "lint-staged": "^15.2.6",
     "simple-git-hooks": "^2.11.1",
-    "tsup": "^8.0.2",
-    "tsx": "^4.7.2",
-    "typescript": "^5.4.4",
-    "vite": "^5.2.8"
+    "tsup": "^8.1.0",
+    "tsx": "^4.15.2",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.13"
   },
   "simple-git-hooks": {
     "pre-commit": "nlx lint-staged"
