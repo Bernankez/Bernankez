@@ -12,6 +12,8 @@
   <samp>
     Writing code to fulfill my needs. It's pleasure if it happens to help you.
     <br>
+    Try to polish things until I'm satisfied.
+    <br>
     <br>
     Knows nothing, likes sleeping. 什么也不会，喜欢睡觉
   </samp>
