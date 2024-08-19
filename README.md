@@ -10,7 +10,7 @@
 
 <i>
   <samp>
-    Writing code to fulfill my needs. It's pleasure if it happens to help you.
+    Writing code to fulfill my needs. I'm pleasure if it happens to help you.
     <br>
     Try to polish things until I'm satisfied.
     <br>
